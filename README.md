@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Surajkelaginamani
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning coding with different resources
-i am in first year of B-tech .
-i am learning c++ .
-i will update my profile in next few months
+- 🌱 I’m currently learning coding  with different resources
+- i am in first year of B-tech .
+- i am learning c++ .
+- i will update my profile in next few months
 with some extra knowledge of coding 
   
 
